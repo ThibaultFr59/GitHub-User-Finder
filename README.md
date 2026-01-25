@@ -22,7 +22,7 @@ A responsive web application aimed at searching for GitHub users and displaying 
 
 - [x] Project setup with Vite & Tailwind CSS
 - [x] Basic HTML Structure & Accessibility
-- [ ] CSS Styling & Layout (Grid, Flexbox, Spacing)
+- [x] CSS Styling & Layout (Grid, Flexbox, Spacing)
 - [ ] JavaScript Logic (Fetch API)
 - [ ] Dynamic UI Injection (User Card)
 - [ ] Dark Mode implementation
