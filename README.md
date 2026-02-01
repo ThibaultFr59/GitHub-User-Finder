@@ -23,9 +23,9 @@ A responsive web application aimed at searching for GitHub users and displaying 
 - [x] Project setup with Vite & Tailwind CSS
 - [x] Basic HTML Structure & Accessibility
 - [x] CSS Styling & Layout (Grid, Flexbox, Spacing)
-- [ ] JavaScript Logic (Fetch API)
-- [ ] Dynamic UI Injection (User Card)
-- [ ] Error Handling (User not found)
+- [x] JavaScript Logic (Fetch API)
+- [x] Dynamic UI Injection (User Card)
+- [x] Error Handling (User not found)
 
 ---
 
