@@ -25,7 +25,6 @@ A responsive web application aimed at searching for GitHub users and displaying 
 - [x] CSS Styling & Layout (Grid, Flexbox, Spacing)
 - [ ] JavaScript Logic (Fetch API)
 - [ ] Dynamic UI Injection (User Card)
-- [ ] Dark Mode implementation
 - [ ] Error Handling (User not found)
 
 ---
